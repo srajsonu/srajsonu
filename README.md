@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Django/Spring-Boot
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ...
-- 📫 How to reach me: ... [Personal] https://srajsonu.ml
+- 📫 How to reach me: ... [Personal](https://srajsonu.ml)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
 -->
