@@ -24,7 +24,7 @@ Hey, myself SONU RAJ. I graduated from Netaji Subhash Engineering College, Kolka
   2. Django
 
 ## 🤔 Where else you can find me?
-  1. [Personal](https://srajsonu.ml)
+  1. [Personal](https://competent-newton-a1bc42.netlify.app/)
   2. [LeetCode](https://leetcode.com/srajsonu/)
   3. [LinkedIn](https://www.linkedin.com/in/srajsonu/)
   4. [Facebook](https://www.facebook.com/srajsonu)
