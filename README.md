@@ -1,4 +1,4 @@
-### Hello World 👋
+## Hello World 👋
 
 ### About Me
 
@@ -32,10 +32,8 @@ Hey, myself SONU RAJ.
   6. [Twitter](https://twitter.com/srajsonu_)
 
 ### 📫 How to reach me: 
-  - Drop me a mail at singhuddeshyaofficial@gmail.com!
+  - Drop me a mail at srajsonu02@gmail.com!
 
-  
+### 😄 Pronouns:
+  - He/Him
 
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
--->
