@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 2. Django
 
 - 📫 How to reach me:
-1. [Personal](https://srajsonu.ml),
+1. [Personal](https://srajsonu.ml)
 2. [LeetCode](https://leetcode.com/srajsonu/)
 3. [LinkedIn](https://www.linkedin.com/in/srajsonu/)
-4. [Facebook] (https://www.facebook.com/srajsonu)
-5. [Instagram] (https://www.instagram.com/srajsonu_/)
-6. [Twitter] (https://twitter.com/srajsonu_)
+4. [Facebook](https://www.facebook.com/srajsonu)
+5. [Instagram](https://www.instagram.com/srajsonu_/)
+6. [Twitter](https://twitter.com/srajsonu_)
 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
