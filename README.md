@@ -1,4 +1,8 @@
-### Hello World 👋  I'm SONU RAJ  👋
+### Hello World 👋
+
+### About Me
+
+Hey, myself SONU RAJ.
 
 
 Here are some ideas to get you started:
