@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey, myself SONU RAJ. I graduated from Netaji Subhash Engineering College, Kolkata in 2020. I love working as a Backend Developer. I also worked on iOS Development.
+Hey, myself SONU RAJ. I graduated from Netaji Subhash Engineering College, Kolkata in 2020. I love working as a Backend Developer. I also worked on iOS app Development.
 
 ## 🔭 I’m currently working on:
   1. Spring Boot MVC
@@ -22,9 +22,10 @@ Hey, myself SONU RAJ. I graduated from Netaji Subhash Engineering College, Kolka
 ## 💬 Ask me about:
   1. Python
   2. Django
+  3. Swift
 
 ## 🤔 Where else you can find me?
-  1. [Personal](https://competent-newton-a1bc42.netlify.app/)
+  1. [Personal](https://www.srajsonu.ml/)
   2. [LeetCode](https://leetcode.com/srajsonu/)
   3. [LinkedIn](https://www.linkedin.com/in/srajsonu/)
   4. [Facebook](https://www.facebook.com/srajsonu)
