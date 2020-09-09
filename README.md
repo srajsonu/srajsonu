@@ -6,6 +6,7 @@ Hey, myself SONU RAJ. I graduated from Netaji Subhash Engineering College, Kolka
 
 ## 🔭 I’m currently working on:
   1. Spring Boot MVC
+  2. AWS
 
 ## 🌱 I’m currently learning:
   1. AWS
