@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey, I'm a Software develoer with ML/DL enthusiasm and focus on Backend Development. I'm passionate about coding and solving problems and learning day by day to improve my skills.
+Hey, I'm a Software developer with ML/DL enthusiasm and focus on Backend Development. I'm passionate about coding and solving problems and learning day by day to improve my skills.
 
 I love exploring new Technologies. I also worked on iOS app development.
 
