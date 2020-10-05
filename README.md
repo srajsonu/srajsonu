@@ -9,7 +9,7 @@ I love exploring new Technologies. I also worked on iOS app development.
 
 
 ## 🔭 I’m currently working on:
-  1. Spring Boot MVC
+  1. Django
   2. AWS
 
 ## 🌱 I’m currently learning:
