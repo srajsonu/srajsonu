@@ -15,6 +15,7 @@ I love exploring new Technologies. I also worked on iOS app development.
 ## 🌱 I’m currently learning:
   1. AWS
   2. Docker
+  3. React
 
 ## 👯 I’m looking to collaborate on:
   1. Django
