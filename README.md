@@ -9,26 +9,21 @@ I love exploring new Technologies. I also worked on iOS app development.
 
 
 ## 🔭 I’m currently working on:
-  1. Django
-  2. AWS
+  1. Java
+  2. Spring
+  3. Python
 
 ## 🌱 I’m currently learning:
-  1. AWS
-  2. Docker
-  3. React
+  1. Web3
+  2. Blockchain
 
 ## 👯 I’m looking to collaborate on:
-  1. Django
   2. Spring-Boot MVC
-
-## 🤔 I’m looking for help with:
-  1. AWS
-  2. Docker
-  3. Kubernate
+  3. Web3
 
 ## 💬 Ask me about:
   1. Python
-  2. Django
+  2. Java
   3. Swift
 
 ## 🤔 Where else you can find me?
