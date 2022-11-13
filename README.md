@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey, I'm a Software developer with ML/DL & Cyber Security enthusiasm and focus on Backend Development. I'm passionate about coding and solving problems and learning day by day to improve my skills.
+Hey, I'm a Back-end Developer, passionate about coding and solving problems and learning day by day. Proficient in Python, Java, Spring Boot, MongoDB, MySQL, Swift, Django, TensorFlow, Docker, and Kubernetes. Dynamic and detail-oriented Software Developer with a knack for conceptualizing and delivering elegant, user-friendly solutions effectively and efficiently. Machine Learning, Deep Learning, and Cyber Security enthusiast.
 
 I love exploring new Technologies. I also worked on iOS app development.
 
