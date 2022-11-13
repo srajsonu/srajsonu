@@ -12,19 +12,20 @@ I love exploring new Technologies. I also worked on iOS app development.
   1. Java
   2. Spring
   3. Python
+  4. Scala
+  5. Spark
+  6. Kafka
 
-## 🌱 I’m currently learning:
-  1. Web3
-  2. Blockchain
 
 ## 👯 I’m looking to collaborate on:
-  2. Spring-Boot MVC
+  1. ML/DL/AI
+  2. Cyber Security
   3. Web3
 
 ## 💬 Ask me about:
   1. Python
   2. Java
-  3. Swift
+  3. Backend
 
 ## 🤔 Where else you can find me?
   1. [Personal](https://www.srajsonu.ml/)
